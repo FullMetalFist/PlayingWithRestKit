@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>33C8D36D-2540-4B60-A009-1474245BEA47</string>
+	<key>IDESourceControlProjectName</key>
+	<string>PlayingWithRestKit</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>85EAB44B43EB20B9939C2FC73F152BA525B8097C</key>
+		<string>github.com:FullMetalFist/PlayingWithRestKit.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>PlayingWithRestKit.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>85EAB44B43EB20B9939C2FC73F152BA525B8097C</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:FullMetalFist/PlayingWithRestKit.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>85EAB44B43EB20B9939C2FC73F152BA525B8097C</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>85EAB44B43EB20B9939C2FC73F152BA525B8097C</string>
+			<key>IDESourceControlWCCName</key>
+			<string>PlayingWithRestKit</string>
+		</dict>
+	</array>
+</dict>
+</plist>

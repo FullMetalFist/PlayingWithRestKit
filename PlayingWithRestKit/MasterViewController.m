@@ -52,6 +52,7 @@ static NSString *const CellIdentifier = @"CellID";
 
 #pragma mark - Transition
 
+// no seg necessary no sb
 //- (void)prepareForSegue:(UIStoryboardSegue *)segue sender:(id)sender {
 //    if ([[segue identifier] isEqualToString:@"showDetail"]) {
 //        NSIndexPath *indexPath = [self.tableView indexPathForSelectedRow];

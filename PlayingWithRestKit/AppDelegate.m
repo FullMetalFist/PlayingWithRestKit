@@ -9,6 +9,7 @@
 #import "AppDelegate.h"
 #import "MasterViewController.h"
 //#import "DetailViewController.h"
+#import <RestKit/RestKit.h>
 
 @interface AppDelegate ()
 

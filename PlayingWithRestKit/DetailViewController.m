@@ -10,6 +10,8 @@
 
 @interface DetailViewController ()
 
+@property (weak, nonatomic) UILabel *detailDescriptionLabel;
+
 @end
 
 @implementation DetailViewController
